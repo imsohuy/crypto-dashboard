@@ -1,4 +1,4 @@
-# crypto_dashboard
+# Crypto Dashboard
 
 A Cryptocurrency Dashboard using Flutter.
 
