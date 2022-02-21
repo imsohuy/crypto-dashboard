@@ -1,6 +1,8 @@
 # crypto_dashboard
 
-A new Flutter project.
+A Cryptocurrency Dashboard using Flutter.
+
+![Screenshot_1645016279](https://user-images.githubusercontent.com/38663450/154895191-3c6dc9c1-d74b-4744-ae6b-f22ed9044ef9.png)
 
 ## Getting Started
 
